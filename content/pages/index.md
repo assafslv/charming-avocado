@@ -18,6 +18,14 @@ sections:
         new_window: false
         no_follow: false
         type: action
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    layout_style: mosaic
+    projects_number: 0
+    view_all_label: lorem-ipsum
+    view_all_url: '#'
+    type: portfolio_section
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
