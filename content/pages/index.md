@@ -18,12 +18,6 @@ sections:
         new_window: false
         no_follow: false
         type: action
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    subtitle: lorem-ipsum
-    col_number: three
-    grid_items: []
-    type: grid_section
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
