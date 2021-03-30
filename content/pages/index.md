@@ -12,13 +12,6 @@ sections:
       deliver inspiring work, which enables your organization to grow. [Let's
       talk](/contact/).
     actions:
-      - label: lorem-ipsum
-        url: '#'
-        style: link
-        icon: dribbble
-        new_window: false
-        no_follow: false
-        type: action
       - url: '#'
         style: link
         icon: dribbble
