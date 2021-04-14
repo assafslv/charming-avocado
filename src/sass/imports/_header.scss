@@ -3,6 +3,7 @@
   margin-bottom: 3.33333em;
   padding-bottom: 1em;
   padding-top: 1em;
+  background-color: 
 
   @media only screen and (min-width: 601px) {
     margin-bottom: 5em;
@@ -91,8 +92,8 @@
 
 @media only screen and (max-width: 767px) {
   .site-header {
-    &:after {
-      background: rgba(123
+    &:after {rgba(243, 26, 26, 0.6)
+      background: rgba(223, 63, 63, 0.6)
     ,255,255,.6);
       content: "";
       height: 100vh;
